@@ -1,0 +1,11 @@
+export const Button_None_Flag = 0;
+export const Button_Left_Flag = 1;
+export const Button_Right_Flag = 2;
+export const Button_Middle_Flag = 4;
+export const Button_Back_Flag = 8;
+export const Button_Forward_Flag = 16;
+export const Button_Left = 0;
+export const Button_Right = 2;
+export const Button_Middle = 1;
+export const Button_Back = 3;
+export const Button_Forward = 4;
